@@ -7,7 +7,7 @@ export default {
 
   extend: {
     fontFamily: {
-      sans: ["Comfortaa", ...defaultTheme.fontFamily.sans],
+      sans: ["Manrope", ...defaultTheme.fontFamily.sans],
     },
   },
   plugins: []
