@@ -31,6 +31,8 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@sveltejs/adapter-static": "^3.0.4"
+		"@heroicons/vue": "^2.1.5",
+		"@sveltejs/adapter-static": "^3.0.4",
+		"svelte-icons": "^2.1.0"
 	}
 }
