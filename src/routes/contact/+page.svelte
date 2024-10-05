@@ -16,8 +16,10 @@
 	}
 </script>
 
-<section class="mt-8 space-y-4">
-	<h1 class="text-center font-bold text-4xl">Contact Me</h1>
+<section class="mt-8 space-y-12">
+	<h1 class="text-center font-bold text-6xl">Contacts</h1>
+	<!-- New paragraph with smaller text -->
+	<p class="text-center text-gray-400 text-sm">You can contact me here:</p>
 	<ul class="flex justify-center gap-10 mt-6">
 		{#each socials as social}
 			<li>
