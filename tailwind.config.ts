@@ -9,7 +9,7 @@ export default {
 	theme: {
 		extend: {
 			fontFamily: {
-				sans: ["Playwrite DE Grund", ...defaultTheme.fontFamily.sans],
+				sans: ["Sora", ...defaultTheme.fontFamily.sans],
 			},
       colors: {
 				// flowbite-svelte
